@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunesRepoHub)](https://github.com/RunesRepoHub/RRHQD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rune004)](https://github.com/RunesRepoHub/RRHQD)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD)](https://github.com/RunesRepoHub/RRHQD) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=ACS)](https://github.com/RunesRepoHub/ACS)
