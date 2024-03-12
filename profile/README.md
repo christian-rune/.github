@@ -4,8 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=ACS&theme=transparent)](https://github.com/RunesRepoHub/ACS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=ACS&theme=transparent)](https://github.com/RunesRepoHub/CnC-WebGUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=ACS&theme=transparent)](https://github.com/RunesRepoHub/CnC-Agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=CnC-WebGUI&theme=transparent)](https://github.com/RunesRepoHub/CnC-WebGUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=CnC-Agent&theme=transparent)](https://github.com/RunesRepoHub/CnC-Agent)
 
 ## I Work With Stuff Like
 
