@@ -11,29 +11,26 @@
 > [!IMPORTANT]
 >**My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.**
 
-![Rune004's GitHub stats](https://github-readme-stats.vercel.app/api?username=rune004\&show_icons=true\&theme=transparent\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true\&theme=transparent\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rune004's GitHub stats">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rune004's GitHub stats">
 
-<div align="center">
+
 <h2> I Work With Stuff Like </h2>
 
 <h3> Git </h3>
-</div>
-<div align="center">
+
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
 
 
-### Services 
+<h3>Services</h3>
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+
 
 ### Self Hosted Services
 
@@ -64,5 +61,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 
+</div>
 
 
