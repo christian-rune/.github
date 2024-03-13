@@ -2,7 +2,6 @@
 
 # Hi there and Welcome👋
 
-## Unveiling RRH: Runes Repo Hub
 **RRH stands for Runes Repo Hub, the designated "company" for my tech ventures. Born out of my passion for IT, I founded this hub with a primary goal—to assist and empower others in their tech endeavors.**
 
 **In the vast realm of IT, I engage in a multitude of activities, making it both enjoyable and educational. My scope encompasses programming and IT tasks, and I proudly wear the hat of a versatile script kitty, adept at leveraging various programming frameworks.**
