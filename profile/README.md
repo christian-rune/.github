@@ -40,7 +40,7 @@
 
 ### Software
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-page?style=for-the-badge&logo=termius&logoColor=white&color=grey)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-page?style=for-the-badge&logo=termius&logoColor=white&color=grey) ![Filezilla](https://img.shields.io/badge/Filezilla-page?style=for-the-badge&logo=filezilla&logoColor=white&color=darkred)
  
 
 ### Coding & Frameworks
