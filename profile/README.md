@@ -1,35 +1,33 @@
 # Hi there and Welcome👋
 
 ## Unveiling RRH: Runes Repo Hub
-> [!TIP]
+> [!IMPORTANT]
 >**RRH stands for Runes Repo Hub, the designated "company" for my tech ventures. Born out of my passion for IT, I founded this hub with a primary goal—to assist and empower others in their tech endeavors.**
 
-> [!TIP]
+> [!IMPORTANT]
 >**In the vast realm of IT, I engage in a multitude of activities, making it both enjoyable and educational. My scope encompasses programming and IT tasks, and I proudly wear the hat of a versatile script kitty, adept at leveraging various programming frameworks.**
 
 ## Linux Love
-> [!TIP]
+> [!IMPORTANT]
 >**My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.**
 
 ![Rune004's GitHub stats](https://github-readme-stats.vercel.app/api?username=rune004\&show_icons=true\&theme=transparent\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=CnC-WebGUI&theme=transparent)](https://github.com/RunesRepoHub/CnC-WebGUI) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=ACS&theme=transparent)](https://github.com/RunesRepoHub/ACS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=CnC-Agent&theme=transparent)](https://github.com/RunesRepoHub/CnC-Agent)
-
 ## I Work With Stuff Like
 
+<p align="center">
 ### Git 
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+</p>
 
+<p align="center">
 ### Services 
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+</p>
 
 ### Self Hosted Services
 
