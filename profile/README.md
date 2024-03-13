@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there and Welcome👋
 
 ## Unveiling RRH: Runes Repo Hub
@@ -11,7 +13,7 @@
 > [!IMPORTANT]
 >**My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.**
 
-<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rune004's GitHub stats">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD)
