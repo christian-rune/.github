@@ -1,4 +1,15 @@
-# Hi there 👋
+# Hi there and Welcome👋
+
+## Unveiling RRH: Runes Repo Hub
+> [!TIP]
+>**RRH stands for Runes Repo Hub, the designated "company" for my tech ventures. Born out of my passion for IT, I founded this hub with a primary goal—to assist and empower others in their tech endeavors.**
+
+> [!TIP]
+>**In the vast realm of IT, I engage in a multitude of activities, making it both enjoyable and educational. My scope encompasses programming and IT tasks, and I proudly wear the hat of a versatile script kitty, adept at leveraging various programming frameworks.**
+
+## Linux Love
+> [!TIP]
+>**My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.**
 
 ![Rune004's GitHub stats](https://github-readme-stats.vercel.app/api?username=rune004\&show_icons=true\&theme=transparent\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
@@ -49,11 +60,5 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 
-## Unveiling RRH: Runes Repo Hub
-> RRH stands for Runes Repo Hub, the designated "company" for my tech ventures. Born out of my passion for IT, I founded this hub with a primary goal—to assist and empower others in their tech endeavors.
 
->In the vast realm of IT, I engage in a multitude of activities, making it both enjoyable and educational. My scope encompasses programming and IT tasks, and I proudly wear the hat of a versatile script kitty, adept at leveraging various programming frameworks.
-
-## Linux Love
->My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.
 
