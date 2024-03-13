@@ -3,16 +3,15 @@
 # Hi there and Welcome👋
 
 ## Unveiling RRH: Runes Repo Hub
-> [!IMPORTANT]
->**RRH stands for Runes Repo Hub, the designated "company" for my tech ventures. Born out of my passion for IT, I founded this hub with a primary goal—to assist and empower others in their tech endeavors.**
+**RRH stands for Runes Repo Hub, the designated "company" for my tech ventures. Born out of my passion for IT, I founded this hub with a primary goal—to assist and empower others in their tech endeavors.**
 
-> [!IMPORTANT]
->**In the vast realm of IT, I engage in a multitude of activities, making it both enjoyable and educational. My scope encompasses programming and IT tasks, and I proudly wear the hat of a versatile script kitty, adept at leveraging various programming frameworks.**
+**In the vast realm of IT, I engage in a multitude of activities, making it both enjoyable and educational. My scope encompasses programming and IT tasks, and I proudly wear the hat of a versatile script kitty, adept at leveraging various programming frameworks.**
 
 ## Linux Love
-> [!IMPORTANT]
->**My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.**
 
+**My heart beats for Linux and the command line, making it a central theme in much of my work. Operating my own servers on Linux, the majority of my projects are tailored for this environment. While I occasionally delve into Windows projects, Linux remains the focal point of my creative and technical pursuits.**
+
+## My GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rune004's GitHub stats">
 
