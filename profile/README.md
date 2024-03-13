@@ -15,10 +15,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD)
 
-## I Work With Stuff Like
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rune004\&show_icons=true\&theme=transparent\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rune004's GitHub stats">
+</div>
 
-### Git 
+<div align="center">
+<h2> I Work With Stuff Like </h2>
 
+<h3> Git </h3>
+</div>
 <div align="center">
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
