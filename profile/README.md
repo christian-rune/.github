@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rune004&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Rune004's GitHub stats">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)](https://github.com/RunesRepoHub/RRHQD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RunesRepoHub&repo=RRHQD&theme=transparent)]((https://runesrepohub.rp-helpdesk.com/))
 
 
 <h2> I Work With Stuff Like </h2>
